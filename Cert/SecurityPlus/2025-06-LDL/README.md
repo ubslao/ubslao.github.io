@@ -20,3 +20,8 @@
 ### Instructor
 + **Maykin Warasart, Ph.D.**
 	+ CompTIA Certified Trainer (CTT+) - Classroom Trainer
+
+
+<a href="Day3-o.jpg" target="_blank"><img src="Day3.jpg"></a>
+
+<a href="Day2-o.jpg" target="_blank"><img src="Day2.jpg"></a>
