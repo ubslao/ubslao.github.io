@@ -3,9 +3,6 @@
 
 ### Date : June 9-13, 2025
 
-### Instructor
-+ Maykin Warasart, Ph.D.
-
 ### Audiences
 + Ms. Phonesavanh Nammakone, Verisette Lao (APNIC Foundation)
 + Ms. Daonapha DUANGNGERN, ETL Company Limited (APNIC Foundation)
@@ -18,3 +15,6 @@
 + Mr. Baleezup THIPHAKORN, EDL-Generation Public Company
 + Mr. Souksakone BUALAPHAN, Agricultural Promotion Bank (APB)
 
+### Instructor
++ Maykin Warasart, Ph.D.
+	+ CompTIA Certified Trainer (CTT+) - Classroom Trainer
