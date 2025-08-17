@@ -1,5 +1,5 @@
 # Project Management Essentials
-## (based on CompTIA Project+ Exam Objectives)
+## (Based on CompTIA Project+ Exam Objectives)
 
 ### Date : August 12-15, 2025
 
