@@ -3,6 +3,8 @@
 
 ### Date : August 12-15, 2025
 
+<a href="Day4-o.JPG" target="_blank"><img src="Day4.JPG"></a>
+
 ### Audiences
 + Miss **Pheophan KHANSAYSAMONE**
 + Miss **Vanhpheng INPHOXAY**
