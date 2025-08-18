@@ -4,7 +4,12 @@
 ### Date : August 12-15, 2025
 
 ### Audiences
-+ TBD
++ Miss Pheophan KHANSAYSAMONE
++ Miss Vanhpheng INPHOXAY 
++ Miss Honglisa VILASIT
++ Mr. Phoutthitsack VILACHIT
++ Mr. Aphiluck JALUENPHON
++ Ms. Phonesavanh NAMMAKONE
 
 ### Instructor
 + **Maykin Warasart, Ph.D.**
