@@ -25,3 +25,5 @@
 + MR. BOUNTHONG KINNAVONG
 + MR. Anoulak SAENGSAVANG 
 + MR. Sombath SINDAVONG
+
+<a href="2_o.jpg" target="_blank"><img src="2.jpg"></a>
