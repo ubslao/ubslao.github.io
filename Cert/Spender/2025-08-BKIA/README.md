@@ -3,7 +3,7 @@
 
 ### Date : August 28, 2025
 
-<a href="1.jpg" target="_blank"><img src="1.jpg"></a>
+<a href="1_o.jpg" target="_blank"><img src="1.jpg"></a>
 
 ### Audiences
 + MR. SOUPHANH DUANGPHACHANH
