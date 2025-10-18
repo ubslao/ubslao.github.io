@@ -11,3 +11,5 @@
 ### Instructor
 + **Maykin Warasart, Ph.D.**
 	+ CompTIA Certified Trainer (CTT+) - Classroom Trainer
+
+<a href="2025-10-15_MKS-office_o.jpg" target="_blank"><img src="2025-10-15_MKS-office.jpg"></a>
